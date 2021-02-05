@@ -15,3 +15,5 @@ helperFunctions
    helperFunctions.pdf
    helperFunctions.process
    helperFunctions.uid
+   helperFunctions.web_interface
+   helperFunctions.yara_binary_search
